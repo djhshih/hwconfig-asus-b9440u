@@ -1,0 +1,11 @@
+synclient \
+	TapButton1=1 \
+	TapButton2=3 \
+	TapButton3=2 \
+	VertTwoFingerScroll=1 \
+	VertScrollDelta=-70 \
+	AccelFactor=0.1 \
+	MaxSpeed=1.8 \
+	PalmDetect=1 \
+	PalmMinWidth=4 \
+	PalmMinZ=50 \

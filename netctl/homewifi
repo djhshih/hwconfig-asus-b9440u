@@ -1,0 +1,8 @@
+Interface=wlp2s0
+Connection=wireless
+Security=wpa-configsection
+IP=dhcp
+WPAConfigSection=(
+    'ssid="homewifi"'
+    'psk="password"'
+)

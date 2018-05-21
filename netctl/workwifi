@@ -1,0 +1,10 @@
+Interface=wlp2s0
+Connection=wireless
+Security=wpa-configsection
+IP=dhcp
+WPAConfigSection=(
+    'ssid="workwifi"'
+    'key_mgmt=WPA-EAP'
+    'identity="user"'
+    'password="password"'
+)
